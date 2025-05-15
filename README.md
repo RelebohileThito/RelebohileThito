@@ -4,7 +4,7 @@
 - Central University of Technology
 - 💞️ I’m looking to collaborate on every project with just about anyone.
 - 📫 You can get hold of me on my email:relebohilethito532@gmail.com 
-- ⚡ Fun fact: ...
+- ⚡ Using C#(.NET framework) and Dart(Flutter)
 
 <!---
 RelebohileThito/RelebohileThito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
